@@ -9,7 +9,7 @@
 ***
 
 ## ![logoicon](https://www.solutionsfitness.com/wp-content/uploads/2017/11/icon-achieve.png) About myself:
-I am 32 years old, I live in Vitebsk. I am not working at the moment, so I am actively engaged in self-education. I like to learn something new and use it in practice.
+### I am 32 years old, I live in Vitebsk. I am not working at the moment, so I am actively engaged in self-education. I like to learn something new and use it in practice.
 
 ***
 

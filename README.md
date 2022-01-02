@@ -1,1 +1,1 @@
-# rsschool-cv
+https://dantaliyaa.github.io/rsschool-cv/cv
